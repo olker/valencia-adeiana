@@ -5,16 +5,13 @@
   font-family: "Poppins", sans-serif;
 }
 body {
-  background: url("./girasol.jpg");
-  background-position: bottom left;
-  background-size: cover;
+  background: url("./Captura.png");
 }
 .card {
   width: 640px;
   height: 400px;
   position: absolute;
-  margin-top: 180px;
-  margin-left: 50px;
+  margin: 100px auto;
   left: 0;
   right: 0;
   top: 0;
