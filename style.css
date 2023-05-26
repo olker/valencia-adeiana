@@ -15,10 +15,15 @@ body {
   width: 640px;
   height: 450px;
   margin-top: 400px;
-  margin-left: 30px;
+  margin-left: 25%;
   -webkit-perspective: 1200px;
   perspective: 1200px;
   transition: 1s;
+}
+@media (min-width: 768px) {
+  .card{
+    margin-left: 25%;
+  }
 }
 .card:hover {
   transform: rotate(-5deg);
