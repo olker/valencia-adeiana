@@ -14,7 +14,7 @@ body {
 .card {
   width: 640px;
   height: 450px;
-  margin-top: 400px;
+  margin-top: 50px;
   margin-left: 25%;
   -webkit-perspective: 1200px;
   perspective: 1200px;
